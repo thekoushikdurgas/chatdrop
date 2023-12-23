@@ -1,0 +1,61 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+# heroku login
+# git add . && git commit -m "29/8/2022" && git push heroku master
+# git add . && git commit -m "8/7/2020" && git push origin main
+# git init
+# git remote add origin https://github.com/thekoushikdurgas/chatdrop.git
+# git remote -v
+# git checkout -b main
+# git add . && git commit -m "8/7/2020" && git push origin main -f
+# .env
+
+# git add . && git commit -m "8/7/2020" && git push origin main
+# git init
+# git remote add origin https://github.com/thekoushikdurgas/chatdrop.git
+# git remote -v
+# git checkout -b build
+# git add . && git commit -m "8/7/2020" && git push origin build -f
+# http://koushikchandrasaha.thekoushikdurgas.com/  ---->    https://thekoushikdurgas.github.io/TKDstroage/
+# https://thekoushikdurgasserver.onrender.com  ---->    https://tkdserver.onrender.com

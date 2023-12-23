@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "497959415907",
+    "firebase_url": "https://chat-drop-4fb9f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chat-drop-4fb9f",
+    "storage_bucket": "chat-drop-4fb9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497959415907:android:e64b01f9dc2ea46e858856",
+        "android_client_info": {
+          "package_name": "com.example.chatdrop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497959415907-r418kvbfan9d61naus91ug5tl0mvn8jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNsiqfMFoQjBGgqsZaqfkovlzZPIc2uEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497959415907-r418kvbfan9d61naus91ug5tl0mvn8jo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497959415907-40q8r2ksnqmuot477jaengkigr3gmfg1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tkdmusicapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497959415907:android:82e9e7aea6a0dbda858856",
+        "android_client_info": {
+          "package_name": "com.example.tkdmusicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497959415907-qlop7hedkg23rk1q7osk753tgs5f8rph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tkdmusicapp",
+            "certificate_hash": "148191860200aaca269710172cb472353fad02c0"
+          }
+        },
+        {
+          "client_id": "497959415907-r418kvbfan9d61naus91ug5tl0mvn8jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNsiqfMFoQjBGgqsZaqfkovlzZPIc2uEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497959415907-r418kvbfan9d61naus91ug5tl0mvn8jo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497959415907-40q8r2ksnqmuot477jaengkigr3gmfg1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tkdmusicapp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
