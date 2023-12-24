@@ -78,7 +78,7 @@ dependencies:
   chewie: ^1.5.0
   flutter_localization: ^0.2.0
   titlebar_buttons: ^1.0.0
-  device_info_plus: ^8.2.2
+  device_info_plus: ^9.1.1
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -91,7 +91,7 @@ flutter:
   uses-material-design: true
   assets:
     - assets/img/
-    - assets/video/
+    - assets/images/
   fonts:
     - family: Tilt Neon
       fonts:
